@@ -1,2 +1,2 @@
 My first readme
-we update the file and deleted js
+we update the file and deleted js 
